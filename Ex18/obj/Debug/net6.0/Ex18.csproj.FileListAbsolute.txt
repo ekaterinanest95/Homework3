@@ -1,0 +1,15 @@
+D:\Documents\Homework3\homework\Ex18\bin\Debug\net6.0\Ex18.exe
+D:\Documents\Homework3\homework\Ex18\bin\Debug\net6.0\Ex18.deps.json
+D:\Documents\Homework3\homework\Ex18\bin\Debug\net6.0\Ex18.runtimeconfig.json
+D:\Documents\Homework3\homework\Ex18\bin\Debug\net6.0\Ex18.dll
+D:\Documents\Homework3\homework\Ex18\bin\Debug\net6.0\Ex18.pdb
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.csproj.AssemblyReference.cache
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.AssemblyInfoInputs.cache
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.AssemblyInfo.cs
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.csproj.CoreCompileInputs.cache
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.dll
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\refint\Ex18.dll
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.pdb
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\Ex18.genruntimeconfig.cache
+D:\Documents\Homework3\homework\Ex18\obj\Debug\net6.0\ref\Ex18.dll
